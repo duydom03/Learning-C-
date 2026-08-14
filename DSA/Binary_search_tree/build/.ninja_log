@@ -1,0 +1,9 @@
+# ninja log v7
+28	389	8076187725923369	CMakeFiles/main_app.dir/src/main.cpp.obj	1be87af1f7244b58
+22	400	8076187725839382	CMakeFiles/bst_lib.dir/src/BinarySearchTree.cpp.obj	def588098a18e059
+400	1098	8076187729650830	libbst_lib.a	29cccd701cc3a4db
+1098	1313	8076187736625729	main_app.exe	6da56044a9a91243
+77	571	8076223257714724	CMakeFiles/main_app.dir/src/main.cpp.obj	1be87af1f7244b58
+71	583	8076223257637796	CMakeFiles/bst_lib.dir/src/BinarySearchTree.cpp.obj	def588098a18e059
+583	726	8076223262715529	libbst_lib.a	29cccd701cc3a4db
+726	903	8076223264185504	main_app.exe	6da56044a9a91243

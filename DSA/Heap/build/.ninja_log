@@ -1,0 +1,5 @@
+# ninja log v7
+22	364	8076251282378444	CMakeFiles/main_app.dir/src/main.cpp.obj	88ca95b1411edb9d
+34	651	8076253329933493	CMakeFiles/maxHeap_lib.dir/src/maxHeap.cpp.obj	afad95398e00325f
+652	807	8076253336115460	libmaxHeap_lib.a	cd12f4726ad9e7e
+807	945	8076253337661820	main_app.exe	8faad481539aac19

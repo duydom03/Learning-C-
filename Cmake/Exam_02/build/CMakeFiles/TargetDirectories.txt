@@ -1,0 +1,4 @@
+D:/Working/C++/Learning-C-/Cmake/Exam_02/build/CMakeFiles/calculator.dir
+D:/Working/C++/Learning-C-/Cmake/Exam_02/build/CMakeFiles/main.dir
+D:/Working/C++/Learning-C-/Cmake/Exam_02/build/CMakeFiles/edit_cache.dir
+D:/Working/C++/Learning-C-/Cmake/Exam_02/build/CMakeFiles/rebuild_cache.dir

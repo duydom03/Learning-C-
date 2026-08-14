@@ -1,0 +1,7 @@
+# ninja log v7
+33	700	8069147878516867	CMakeFiles/math.dir/src/calculator.cpp.obj	a10903080966ecc6
+38	713	8069147878608182	CMakeFiles/main.dir/src/main.cpp.obj	17d0963f5de6e7dc
+703	1252	8069147885255449	libmath.a	9af5239035996657
+1252	1525	8069147890732675	main.exe	5c73533b90dbe0c1
+59	288	8069151604949194	build.ninja	ec3e3322dbb87410
+59	288	8069151604924141	D:/Working/C++/Learning-C-/Cmake/Exam_03/build/cmake_install.cmake	ec3e3322dbb87410
