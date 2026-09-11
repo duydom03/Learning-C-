@@ -1,0 +1,28 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Qt Creator files
+*.pro.user
+*.qmlc
+*.jsc
+.qtcreator/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Database and logs (runtime generated)
+*.db
+*.log
+cloud_root/
